@@ -1,0 +1,10 @@
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\bin\Debug\ChangingHealthWithTimer.exe.config
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\bin\Debug\ChangingHealthWithTimer.exe
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\bin\Debug\ChangingHealthWithTimer.pdb
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.csprojResolveAssemblyReference.cache
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.Properties.Resources.resources
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.csproj.GenerateResource.Cache
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.exe
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.pdb
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.Form2.resources
+L:\Game Design\ChangingHealthWithTimer\ChangingHealthWithTimer\obj\Debug\ChangingHealthWithTimer.Util.resources
