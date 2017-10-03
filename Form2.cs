@@ -15,6 +15,7 @@ namespace ChangingHealthWithTimer
         public Form2()
         {
             InitializeComponent();
+            int j = Util.GetRandom();
             label1.Text = "Enemy attacks you! -"+j+"  HP";
         }
 

@@ -21,7 +21,7 @@ namespace ChangingHealthWithTimer
     public partial class Form1 : Form
     {
         Timer timer = new Timer();
-
+        
         public Form1()
         {
             InitializeComponent();
@@ -35,8 +35,7 @@ namespace ChangingHealthWithTimer
         public void timer1_Tick(object sender, EventArgs e)
         {
             int a = int.Parse(label2.Text);
-            var i = Util.GetRandom();
-            
+            int i = Util.GetRandom();
 
             a -= i;
 
