@@ -29,7 +29,6 @@ namespace ChangingHealthWithTimer
 
         // Declare a static boolean called exitFlag and set it to false
 
-        // Declare a static int called
 
         public Form1()
         {
